@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597425032608",
+    "project_id": "tasktrackingmobile",
+    "storage_bucket": "tasktrackingmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597425032608:android:438362df29342e53cfa8c5",
+        "android_client_info": {
+          "package_name": "com.tasktrackingmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUOmL7YB_R4xKEouh51Z9Q5O6I9Rp1t4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
