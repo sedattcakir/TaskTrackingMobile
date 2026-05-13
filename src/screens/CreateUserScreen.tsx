@@ -29,8 +29,8 @@ export default function CreateUserScreen() {
   const [saving, setSaving] = useState(false);
 
   const save = async () => {
-    if (name.trim().length < 2) {
-      Alert.alert('Hata', 'Ad soyad en az 2 karakter olmalıdır.');
+    if (name.trim().length < 4) {
+      Alert.alert('Hata', 'Ad soyad en az 4 karakter olmalıdır.');
       return;
     }
 
